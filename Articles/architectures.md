@@ -6,4 +6,8 @@
 
 ## AWS
 
+- [AWS Architecture Center](https://aws.amazon.com/architecture/)
+
 ## Google Cloud
+
+- [Cloud Architecture Center](https://cloud.google.com/architecture)
