@@ -10,4 +10,4 @@
 
 ## Google Cloud
 
-- [Cloud Architecture Center](https://cloud.google.com/architecture)
+- [GCP Cloud Architecture Center](https://cloud.google.com/architecture)
