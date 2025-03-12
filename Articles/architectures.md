@@ -7,6 +7,7 @@
 ## AWS
 
 - [AWS Architecture Center](https://aws.amazon.com/architecture/)
+- [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
 ## Google Cloud
 
