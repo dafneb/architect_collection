@@ -5,6 +5,28 @@
 - **Stakeholder (Role Owner)**: The individual or team responsible for managing the role, including auditing actual assignments, approving new assignments, and ensuring the role remains aligned with business needs.
 - **Role Approver**: The person or group who reviews and approves the role before it is assigned to users. This may include ensuring that the role aligns with organizational policies and security standards.
 
+## Specification
+
+### Common roles
+
+* for reading, could be granted/assigned permanently
+* be careful: not Global Reader
+* audit each 12 months
+
+### Privileged roles
+
+* granted via PIM for 12 hours
+* request for MFA (recommended)
+* also: **Data plane roles for Azure**
+* audit each 6 months
+
+### Highly-privileged roles
+
+* granted via PIM for 4 hours
+* request has to be approved by stakeholders
+* request for MFA (required)
+* audit each 3 months
+
 ## Roles
 
 | Role Name | Stakeholder | Assignment / Role Approver | Audit&nbsp;Frequency | Active&nbsp;time | Service unit |
