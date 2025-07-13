@@ -7,7 +7,7 @@
 
 ## Roles
 
-| Role Name | Stakeholder | Assignment / Role Approver | Audit Frequency | Active time | Service unit |
+| Role Name | Stakeholder | Assignment / Role Approver | Audit&nbsp;Frequency | Active&nbsp;time | Service unit |
 |:----------|:------------|:---------------------------|:---------------:|:-----------:|:-------------|
 | Attack&nbsp;Payload&nbsp;Author | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Eligible assignments via Group <br> Eligible without approvement <br> MFA as optional | each 6 months | 1 shift | Security and Compliance |
 | Attack&nbsp;Simulation&nbsp;Administrator | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Eligible assignments via Group <br> Eligible without approvement <br> MFA as optional | each 6 months | 1 shift | Security and Compliance |
@@ -23,4 +23,4 @@
 | Reports&nbsp;Reader | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Eligible assignments via Group <br> Eligible without approvement <br> MFA as optional | each 6 months | 1 shift | Security and Compliance |
 | Security&nbsp;Administrator | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Eligible assignments via Group <br> Eligible with approvement <br> MFA is required <br> --- <br> Service Desk (Change Management) <br> Service Desk (Problem Management) <br> Lead&nbsp;of&nbsp;Security&nbsp;team <br> Lead of Device management <br> CIO | each 3 months | 4 hours | Security and Compliance |
 | Security&nbsp;Operator | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Eligible assignments via Group <br> Eligible without approvement <br> MFA as optional | each 6 months | 1 shift | Security and Compliance |
-| Security&nbsp;Reader | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Permanently assigned via Group | each&nbsp;12&nbsp;months  | | Security&nbsp;and&nbsp;Compliance |
+| Security&nbsp;Reader | Lead&nbsp;of&nbsp;Security&nbsp;team <br> CIO <br> Security Architect | Permanently assigned via Group | each 12 months  | | Security&nbsp;and&nbsp;Compliance |
