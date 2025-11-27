@@ -9,23 +9,23 @@
 
 ### Common roles
 
-* for reading, could be granted/assigned permanently
-* be careful: not Global Reader
-* audit each 12 months
+- for reading, could be granted/assigned permanently
+- be careful: not Global Reader
+- audit each 12 months
 
 ### Privileged roles
 
-* granted via PIM for 12 hours
-* request for MFA (recommended)
-* also: **Data plane roles for Azure**
-* audit each 6 months
+- granted via PIM for 12 hours
+- request for MFA (recommended)
+- also: **Data plane roles for Azure**
+- audit each 6 months
 
 ### Highly-privileged roles
 
-* granted via PIM for 4 hours
-* request has to be approved by stakeholders
-* request for MFA (required)
-* audit each 3 months
+- granted via PIM for 4 hours
+- request has to be approved by stakeholders
+- request for MFA (required)
+- audit each 3 months
 
 ## Roles
 
